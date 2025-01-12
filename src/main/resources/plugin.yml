@@ -1,0 +1,5 @@
+name: sneakdeath
+version: '1.0-SNAPSHOT'
+main: me.minecraft.sneakdeath.Sneakdeath
+api-version: '1.21'
+descrption: "sneak = death"
