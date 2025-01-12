@@ -25,7 +25,7 @@ Currently, the plugin does not support configuration files. If you'd like custom
 - Java version: **Java 8** or higher
 
 ## Example
-![Sneak Death Example](https://via.placeholder.com/800x400.png?text=Sneaking+Kills+Example)
+![Sneak Death Example](sneak-death-exemple.gif)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests! Contributions are welcome to improve the plugin.
