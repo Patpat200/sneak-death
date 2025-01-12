@@ -34,8 +34,7 @@ Feel free to fork this repository and submit pull requests! Contributions are we
 This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback and Support
-- Open an issue on the [GitHub Issues](https://github.com/your-repo-link/issues) page for any problems or suggestions.
-- Join our Discord community at [discord.gg/your-discord-link](https://discord.gg/your-discord-link).
+- Send me message on Discord at [discord.gg/your-discord-link](https://discord.gg/ge8JxXxh).
 
 ---
 
