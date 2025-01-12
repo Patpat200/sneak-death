@@ -17,9 +17,6 @@ A lightweight Minecraft plugin that punishes players for sneaking by instantly k
 - No commands or configuration required.
 - Once the plugin is installed, any player sneaking in Survival or Adventure mode will instantly die.
 
-## Customization
-Currently, the plugin does not support configuration files. If you'd like custom behavior, feel free to modify the source code or open a feature request.
-
 ## Requirements
 - Minecraft server version: **1.21+**
 - Java version: **Java 8** or higher
