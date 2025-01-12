@@ -9,7 +9,7 @@ A lightweight Minecraft plugin that punishes players for sneaking by instantly k
 - Safe in **Creative** and **Spectator** modes (players won't die).
 
 ## Installation
-1. Download the plugin JAR file from the [Releases](https://github.com/your-repo-link/releases) section.
+1. Download the plugin JAR file from the [Releases](https://github.com/Patpat200/sneak-death/releases/tag/plugin) section.
 2. Place the JAR file in the `plugins` folder of your Minecraft server.
 3. Restart the server.
 
