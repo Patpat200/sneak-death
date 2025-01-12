@@ -21,7 +21,7 @@ A lightweight Minecraft plugin that punishes players for sneaking by instantly k
 Currently, the plugin does not support configuration files. If you'd like custom behavior, feel free to modify the source code or open a feature request.
 
 ## Requirements
-- Minecraft server version: **1.16+** (tested up to 1.20.1)
+- Minecraft server version: **1.21+**
 - Java version: **Java 8** or higher
 
 ## Example
